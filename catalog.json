@@ -1,1 +1,1 @@
-{"schema":"kirin-harp-catalog/v1","revision":"2dcc2b9f0cff40ee8dc944e4ae357e9f","maxSongSlots":64,"startSong":"d9c1a33423f940478b05cac3cb9e8d4a","songs":[{"id":"d9c1a33423f940478b05cac3cb9e8d4a","name":"新しい曲 1","slot":0}]}
+{"schema":"kirin-harp-catalog/v1","revision":"49d11a621655455291a66b8048a43259","maxSongSlots":64,"startSong":"d9c1a33423f940478b05cac3cb9e8d4a","songs":[{"id":"d9c1a33423f940478b05cac3cb9e8d4a","name":"パルテノン","slot":0},{"id":"997bc1a08df044c790924321d3b53a2a","name":"空","slot":1}]}
